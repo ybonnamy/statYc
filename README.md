@@ -1,0 +1,2 @@
+# statYc
+tinY static website
